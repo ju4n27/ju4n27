@@ -1,0 +1,5 @@
+- 👋 Hola, soy @ju4n27
+- 👀 Estoy interesado en programar cosas curiosas
+- 🌱 Estoy aprendiendo NodeJs
+- 💞️ Me gustaría colaborar con otros proyectos
+- 📫 Mi correo es juanalmenara@gmail.com
