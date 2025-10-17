@@ -1,6 +1,6 @@
 - 👋 Hi, I am @ju4n27
 - 👀 I am interested in programming curious things
 - I've worked so long in LabVIEW projects for scientific and engineering desktop applications
-- 🌱 Now I'm learning more web servcies stuff like NodeJS, SQL
+- 🌱 Now I'm learning more web services stuff like NodeJS, SQL
 - 💞️ I would like to colaborate with projects
 - 📫 My mail is: juanalmenara@gmail.com
